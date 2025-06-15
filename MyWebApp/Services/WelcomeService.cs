@@ -1,3 +1,5 @@
+using MyWebApp.Interfaces;
+
 namespace MyWebApp.Services;
 
 public class WelcomeService : IWelcomeService
@@ -9,7 +11,7 @@ public class WelcomeService : IWelcomeService
     public WelcomeService()
     {
         _serviceCreated = DateTime.Now;
-        _serviceId = Guid.NewGuid();                
+        _serviceId = Guid.NewGuid();
     }
 
     public string GetWelcomeMessage()
