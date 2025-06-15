@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cfuen\\OneDrive\\Escritorio\\DOTNET\\DOTNET PLAN\\MyWebApp (DEPENDENCY INJECTION)\\MyWebApp\\MyWebApp.csproj": {}
+    "c:\\Users\\cfuen\\OneDrive\\Escritorio\\DOTNET\\DOTNET PLAN\\MyWebApp (DEPENDENCY INJECTION)\\MyWebApp\\MyWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cfuen\\OneDrive\\Escritorio\\DOTNET\\DOTNET PLAN\\MyWebApp (DEPENDENCY INJECTION)\\MyWebApp\\MyWebApp.csproj": {
+    "c:\\Users\\cfuen\\OneDrive\\Escritorio\\DOTNET\\DOTNET PLAN\\MyWebApp (DEPENDENCY INJECTION)\\MyWebApp\\MyWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cfuen\\OneDrive\\Escritorio\\DOTNET\\DOTNET PLAN\\MyWebApp (DEPENDENCY INJECTION)\\MyWebApp\\MyWebApp.csproj",
+        "projectUniqueName": "c:\\Users\\cfuen\\OneDrive\\Escritorio\\DOTNET\\DOTNET PLAN\\MyWebApp (DEPENDENCY INJECTION)\\MyWebApp\\MyWebApp.csproj",
         "projectName": "MyWebApp",
-        "projectPath": "C:\\Users\\cfuen\\OneDrive\\Escritorio\\DOTNET\\DOTNET PLAN\\MyWebApp (DEPENDENCY INJECTION)\\MyWebApp\\MyWebApp.csproj",
+        "projectPath": "c:\\Users\\cfuen\\OneDrive\\Escritorio\\DOTNET\\DOTNET PLAN\\MyWebApp (DEPENDENCY INJECTION)\\MyWebApp\\MyWebApp.csproj",
         "packagesPath": "C:\\Users\\cfuen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cfuen\\OneDrive\\Escritorio\\DOTNET\\DOTNET PLAN\\MyWebApp (DEPENDENCY INJECTION)\\MyWebApp\\obj\\",
+        "outputPath": "c:\\Users\\cfuen\\OneDrive\\Escritorio\\DOTNET\\DOTNET PLAN\\MyWebApp (DEPENDENCY INJECTION)\\MyWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
