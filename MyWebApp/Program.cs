@@ -4,7 +4,8 @@ using MyWebApp.Interfaces;
 var builder = WebApplication.CreateBuilder(args);
 
 // builder.Services.AddSingleton<IWelcomeService, WelcomeService>();
-builder.Services.AddScoped<IWelcomeService, WelcomeService>();
+// builder.Services.AddScoped<IWelcomeService, WelcomeService>();
+builder.Services.AddTransient<IWelcomeService, WelcomeService>();
 
 var app = builder.Build();
 
